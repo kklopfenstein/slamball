@@ -1,0 +1,23 @@
+{
+  "name": "slamball",
+  "version": "1.0.0",
+  "description": "Players throw ball back and forth. Points are scored when either player allows the ball to touch their goal.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kklopfenstein/slamball.git"
+  },
+  "author": "Kevin Klopfenstein",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kklopfenstein/slamball/issues"
+  },
+  "homepage": "https://github.com/kklopfenstein/slamball",
+  "dependencies": {
+    "express": "^4.12.4",
+    "phaser": "^2.3.0"
+  }
+}
